@@ -1,2 +1,2 @@
-fire==0.7.0
+fire==0.7.1
 opencv-python-headless>=4.10.0.84
